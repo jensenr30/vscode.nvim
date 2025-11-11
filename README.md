@@ -1,3 +1,5 @@
+Forked from [Mofiqul's repo](https://github.com/Mofiqul/vscode.nvim/tree/main) and modified arbitrarily.
+
 <h1 align="center">vscode.nvim</h1>
 
 vscode.nvim (formerly `codedark.nvim`) is a Lua port of [vim-code-dark](https://github.com/tomasiser/vim-code-dark) colorscheme for [neovim](https://github.com/neovim/neovim) with VScode's light and dark theme
