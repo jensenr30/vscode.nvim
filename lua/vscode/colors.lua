@@ -60,7 +60,7 @@ colors.get_colors = function()
             -- Syntax colors
             vscGray = '#808080',
             vscViolet = '#646695',
-            vscBlue = '#569CD6',
+            vscBlue = '#2d7cd2',
             vscAccentBlue = '#349cf1',
             vscDarkBlue = '#223E55',
             vscMediumBlue = '#18a2fe',
