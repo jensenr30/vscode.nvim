@@ -6,7 +6,7 @@ colors.get_colors = function()
         mycolors = {
             vscNone = 'NONE',
             vscFront = '#D4D4D4',
-            vscBack = '#000000',
+            vscBack = '#070707',
 
             vscTabCurrent = '#1F1F1F',
             vscTabOther = '#2D2D2D',
